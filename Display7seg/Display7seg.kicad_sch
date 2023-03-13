@@ -110,7 +110,7 @@
   (symbol (lib_id "Display_Character:LTS-6960HR") (at 120.65 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 037e3cea-2b4e-4a8e-b505-8a054542ddbd)
-    (property "Reference" "AFF?" (id 0) (at 120.65 136.0002 0))
+    (property "Reference" "AFF5" (id 0) (at 120.65 136.0002 0))
     (property "Value" "LTS-6960HR" (id 1) (at 120.65 138.5371 0))
     (property "Footprint" "Display_7Segment:7SegmentLED_LTS6760_LTS6780" (id 2) (at 120.65 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -133,7 +133,7 @@
   (symbol (lib_id "Display_Character:LTS-6960HR") (at 119.38 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 231a3042-ec36-4c9a-bd14-ea32ea232394)
-    (property "Reference" "AFF?" (id 0) (at 119.38 44.5602 0))
+    (property "Reference" "AFF2" (id 0) (at 119.38 44.5602 0))
     (property "Value" "LTS-6960HR" (id 1) (at 119.38 47.0971 0))
     (property "Footprint" "Display_7Segment:7SegmentLED_LTS6760_LTS6780" (id 2) (at 119.38 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -156,7 +156,7 @@
   (symbol (lib_id "Display_Character:LTS-6960HR") (at 120.65 181.61 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2b76cefd-3e5b-46ea-aeb2-6a2b85d260ff)
-    (property "Reference" "AFF?" (id 0) (at 120.65 165.2102 0))
+    (property "Reference" "AFF6" (id 0) (at 120.65 165.2102 0))
     (property "Value" "LTS-6960HR" (id 1) (at 120.65 167.7471 0))
     (property "Footprint" "Display_7Segment:7SegmentLED_LTS6760_LTS6780" (id 2) (at 120.65 196.85 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -179,7 +179,7 @@
   (symbol (lib_id "Display_Character:LTS-6960HR") (at 119.38 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9cad7174-bb88-4cff-8061-48eaf01fef6d)
-    (property "Reference" "AFF?" (id 0) (at 119.38 75.0402 0))
+    (property "Reference" "AFF3" (id 0) (at 119.38 75.0402 0))
     (property "Value" "LTS-6960HR" (id 1) (at 119.38 77.5771 0))
     (property "Footprint" "Display_7Segment:7SegmentLED_LTS6760_LTS6780" (id 2) (at 119.38 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -202,7 +202,7 @@
   (symbol (lib_id "Display_Character:LTS-6960HR") (at 118.11 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e82a6e2d-1a74-4e83-87b6-27ce032478fa)
-    (property "Reference" "AFF?" (id 0) (at 118.11 14.0802 0))
+    (property "Reference" "AFF1" (id 0) (at 118.11 14.0802 0))
     (property "Value" "" (id 1) (at 118.11 16.6171 0))
     (property "Footprint" "" (id 2) (at 118.11 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -225,7 +225,7 @@
   (symbol (lib_id "Display_Character:LTS-6960HR") (at 119.38 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f1ee0cd5-9267-462c-9d04-1dd00febaf6c)
-    (property "Reference" "AFF?" (id 0) (at 119.38 105.5202 0))
+    (property "Reference" "AFF4" (id 0) (at 119.38 105.5202 0))
     (property "Value" "LTS-6960HR" (id 1) (at 119.38 108.0571 0))
     (property "Footprint" "Display_7Segment:7SegmentLED_LTS6760_LTS6780" (id 2) (at 119.38 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -250,23 +250,23 @@
   )
 
   (symbol_instances
-    (path "/037e3cea-2b4e-4a8e-b505-8a054542ddbd"
-      (reference "AFF?") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
+    (path "/e82a6e2d-1a74-4e83-87b6-27ce032478fa"
+      (reference "AFF1") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
     )
     (path "/231a3042-ec36-4c9a-bd14-ea32ea232394"
-      (reference "AFF?") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
-    )
-    (path "/2b76cefd-3e5b-46ea-aeb2-6a2b85d260ff"
-      (reference "AFF?") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
+      (reference "AFF2") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
     )
     (path "/9cad7174-bb88-4cff-8061-48eaf01fef6d"
-      (reference "AFF?") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
-    )
-    (path "/e82a6e2d-1a74-4e83-87b6-27ce032478fa"
-      (reference "AFF?") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
+      (reference "AFF3") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
     )
     (path "/f1ee0cd5-9267-462c-9d04-1dd00febaf6c"
-      (reference "AFF?") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
+      (reference "AFF4") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
+    )
+    (path "/037e3cea-2b4e-4a8e-b505-8a054542ddbd"
+      (reference "AFF5") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
+    )
+    (path "/2b76cefd-3e5b-46ea-aeb2-6a2b85d260ff"
+      (reference "AFF6") (unit 1) (value "LTS-6960HR") (footprint "Display_7Segment:7SegmentLED_LTS6760_LTS6780")
     )
   )
 )
