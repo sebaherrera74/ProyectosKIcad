@@ -1,0 +1,7 @@
+Anotado +15V como #PWR02.
+Anotado -15V como #PWR03.
+Anotado GND como #PWR04.
+Anotado 60k como R5.
+Anotado 100 como R6.
+Anotado R_Potentiometer como RV1.
+Anotación completada.
