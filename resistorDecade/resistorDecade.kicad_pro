@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.5,
-          "height": 1.2,
-          "width": 1.2
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -174,10 +174,11 @@
       "track_widths": [
         0.0,
         0.0,
+        0.5,
         0.8,
         1.0,
-        2.0,
-        2.5
+        1.5,
+        2.0
       ],
       "via_dimensions": [
         {
@@ -410,7 +411,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "fuentesimetrica.kicad_pro",
+    "filename": "resistorDecade.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -487,7 +488,7 @@
   },
   "sheets": [
     [
-      "23aae447-6361-4d6f-85aa-3d04cb2bbbd1",
+      "24fbfc18-2110-4bc2-a3eb-65014e57c803",
       ""
     ]
   ],
